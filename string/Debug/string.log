@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (string.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ValidationString.cpp
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(45,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(97,34): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(120,34): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(143,34): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+D:\Программирование\С++\ООП\Задание №12\string\string\ValidationString.cpp(168,20): warning C4018: <: несоответствие типов со знаком и без знака
+  string.vcxproj -> D:\Программирование\С++\ООП\Задание №12\string\Debug\validation_string.exe
